@@ -1,4 +1,0 @@
-Employee
-========
-
-phonegap example
